@@ -2,9 +2,9 @@ streamlit
 pandas
 numpy
 pathlib
-# Core graphing library that was missing:
 plotly
-# For the optional Choropleth map (Section B):
 geopandas
 fiona
 shapely
+# ADD THIS LINE:
+openpyxl
